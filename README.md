@@ -1,4 +1,4 @@
-# 🐍📡 Netmiko Mock Lab: automatización de redes sin hardware físico
+#  Netmiko Mock Lab: automatización de redes sin hardware físico
 
 Laboratorio local para probar scripts de **Netmiko** sin necesitar un router o switch Cisco real. Un servidor SSH falso (hecho con **Paramiko**) imita un router Cisco IOS y responde al comando `show running-config`.
 
